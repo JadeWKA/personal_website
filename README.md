@@ -15,7 +15,9 @@ There are Survey App, Light Dark Mode, Expense Tracker, Dad Jokes, and Movie Boo
 
 Here's some previews of the projects:
 
-## Survey App
+## Survey App 
+
+https://github.com/JadeWKA/survey_app
 
 <img width="921" alt="Screen Shot 2022-01-27 at 4 10 20 PM" src="https://user-images.githubusercontent.com/78435515/151471875-1e1fd862-403b-4ba6-ab43-251ff37bf25e.png">
 
@@ -29,6 +31,8 @@ it will show an HTTP error.
 
 ## Light Dark Mode
 
+https://github.com/JadeWKA/light_dark_mode
+
 <img width="1147" alt="light" src="https://user-images.githubusercontent.com/78435515/151472355-311eb3cd-6dc6-4905-b388-8ef6d0826608.png">
 
 this app is a demo for how light dark mode works on websites.
@@ -39,6 +43,7 @@ the theme, background, text and buttons will change depending on the mode users 
 
 ## Expense Tracker
 
+https://github.com/JadeWKA/expense_tracker <br>
 <img width="470" alt="Screen Shot 2022-01-27 at 3 42 37 PM" src="https://user-images.githubusercontent.com/78435515/151472477-382faf02-cb5d-4a70-961d-a0840baf1937.png">
 
 this is an app to track your expenses.
@@ -47,6 +52,7 @@ you can put text label for all your expenses.
 
 ## Dad Jokes
 
+https://github.com/JadeWKA/dad_jokes
 <img width="802" alt="Screen Shot 2022-01-27 at 3 41 49 PM" src="https://user-images.githubusercontent.com/78435515/151472560-a36557e3-fb6a-4873-9ab3-097f52889494.png">
 
 This app generates Dad jokes from API,
@@ -55,6 +61,7 @@ you can click on the button to refresh for new dad jokes.
 
 ## Movie Booking
 
+https://github.com/JadeWKA/movie_booking <br>
 <img width="477" alt="Screen Shot 2022-01-27 at 3 41 08 PM" src="https://user-images.githubusercontent.com/78435515/151472626-71e7f979-0d9e-4fa6-9f04-5a937e5736f8.png">
 
 this is a movie booking app.
